@@ -1,0 +1,7 @@
+Hi, I want to ask a question about form validation. I know that when you want to validate a form, you need the name of a form and 
+the name of the form validation method. Using Bootstrap, I have created a form in the contact section. I am confused in where to 
+put my form name and name of form validation method in the gist created in the line 6 of my code. There is a form validation in
+the gist created in line 7, however, the form and its elements are created differently from how I created my form and the elements. 
+
+https://gist.github.com/sushi87/7d87003eb299d0ec8a7ff7c4907826b4
+https://gist.github.com/sushi87/3f296e6c8e264f01f455d15375695be7
